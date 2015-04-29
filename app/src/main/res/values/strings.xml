@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyApplication</string>
+    <string name="app_name">Buttons</string>
     <string name="btnText">Привет!</string>
     <string name="hello_world">Hello World!</string>
     <string name="btnText2">Сказать привет</string>
